@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.odd-numbers{
+    background-color: pink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#element-2{
+    color: blue;
+    font-size: 32px;
+}
+
+.font-increase{
+    font-size: 32px;
+}
